@@ -10,6 +10,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
 import { tabcolor, themecolor, inactiveColor } from './assets/colors';
+import VolumeResultsScreen from './screens/main/VolumeResultsScreen'
 
 import {
   MaterialCommunityIcons,
@@ -113,6 +114,13 @@ const Tab3Navigator = () => {
           headerBackTitleVisible: false,
         }}
       />
+      <Tab3.Screen
+        name="Volume Results Screen"
+        component={VolumeResultsScreen}
+        options={{
+          headerBackTitleVisible: false,
+        }}
+      />
     </Tab3.Navigator>
   );
 };
@@ -198,7 +206,7 @@ function MainNavigator() {
             ),
           }}
         />
-        <Main.Screen
+        {/* <Main.Screen
           name="Carbon Impact"
           component={Tab4Navigator}
           options={{
@@ -211,7 +219,7 @@ function MainNavigator() {
               />
             ),
           }}
-        />
+        /> */}
       </Main.Navigator>
     </NavigationContainer>
   );
