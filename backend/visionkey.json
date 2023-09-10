@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nutrisnap-398603",
+  "private_key_id": "20d51e3325de85675ce29777c1d694e24713f1e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClKnsxQ7PkZrNr\nk2yBAufAFLjrVFbqPqa1+EJFYanW4InM5L/Alp8OsvdkQqtTpiJQ0iM2AgXMC47q\nOPwj4l85ixbjorsjp7h0cj9VN/VaIs0ji+83D8+CtDyZbrhZB9tYHJg+yHdPq7cY\nU36+5gWL9MfDZdso+y4W+whUlbFleOLFZYqlg4SeBODyXAhxRZqCYcaG04uszXLL\ns0OPAi2O9zvFM5HEnLJYyeW9WirlMHGLnCCqXLhSol+fSpP3+JNzTlMvveVNK2mQ\nNb6HReDJCihf1TDtqoTF/JjRe7Y2TXVfJVYrlQnZj+/TnbmWtMUi5xkJPU4Jtx/Y\nL8H/3MnfAgMBAAECggEAC7RceyvDxxpUeazYKIMjsdPmHN5i5s7rMoPccmoO4Duu\nS3ckc/0lWj3QuunfyU0OXn4Q+uyFK6YTPSiUc0vBMss9o097bCkgSoRA77f7XgvC\ntm1EVdMVggfMYy7A+qVlymZp9ZajbRTYPbphBeprSmh3PzLr9CLRhW7Jv6P4dWsD\n+Loe/dDWBo1nIYwNMQKEhUVdehml2mAs7JMGzSTl03e4z//qPMDiR9fXrKCbtSvA\nUXwdq3MO0yYd7W8BzLmp4/uX2YaegqTujCfYMcs3hdQpb62rCgCTO+NiMUKedTJR\na4Gq9XiriGskvwdMiGdZp6BCDa2v1Lx8GZlNXCrrAQKBgQDaU/U07sDgoE6kFjZW\nKHBhkIdoUtaPY9F+i3amTzd0s8UE5z+l0xOKIgiQM/aqUkClYdr/YEJ2fa+WmCKE\naCdh/8srfi5qNXQ1wK7TZYzMwu900kMpYpSnwuGsthpmDGgo8hZIHB65T3cjgqJ7\nYMQzRt+LjTiydkhLCyD/qz1LAQKBgQDBqjx5xEkbVyUIU5oFuUp6+adIzpBIhakB\n7eY1F/HZTt2ZQeRMWNDAlv2CVd+NBYI3hsUQDKbbRzk/h9AzeLfDy7lQw3GMRqYt\nBTidqX9IV63glFP74wOgkAWaOMf9/lFvRbmTHZlkwjH1GiZVX16us0WnS7aETWq9\nP6H6u3x03wKBgQC63dNpO9TQLcVBglV9ht0xVH/hFc3ZKslbM0kZbYH8nAVMfhUm\n/DOkLh8ANcmw2/fC1a+Ylq4sNsU78vjQNUlIAqTFlBlsBFZzz3iTLT7G3y4O4gxj\n9qFfuVho9/A+We4o5ZOWoqLVXyOMvDoPubIUZVveWMAnVz/nIx5aVhl/AQKBgB2S\n+Zk+uEtMi4MyARtOqGkPJtSfdrkccCqzQaxp86zTtlNpFIv0JCzE4gG9S14lsTT5\nh65jwDdMMRnai5jQnn9v5OTIc9aQE2Bco8Cv2Zgai5r4C7szd6JVXAWpFiFbbOQp\nKaWlp38TiL19OM1guvzCs6hQj5a0m9A6n2nCp8bRAoGAY/Gxn3AVfh1YEc/NjNwE\nDyFvhGyEBZppHUtZKUkUFeUnURfKRy6BA1Sn1sAEdJrTLn12ATC889uxW5DS6gft\nTmktPlcsCNLiYDqr1ccMF+S5FKgll/ARmpSMnoYIDzWvD7Pr01gDaluKU2eiyZgz\nCXP3c75PuGP/2H1uwfpzew8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nutrisnap@nutrisnap-398603.iam.gserviceaccount.com",
+  "client_id": "116589045746813911146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nutrisnap%40nutrisnap-398603.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
