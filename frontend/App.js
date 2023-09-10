@@ -5,7 +5,7 @@ import RegisterScreen from "./screens/auth/RegisterScreen";
 import SplashScreen from "./screens/auth/SplashScreen";
 import LabelReader from './screens/main/LabelReader'
 import VolumeReader from './screens/main/VolumeReader'
-import ProfileScreen from "./screens/main/CarbonImpact";
+import DashboardScreen from "./screens/main/DashboardScreen";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createMaterialBottomTabNavigator } from "@react-navigation/material-bottom-tabs";
@@ -56,8 +56,8 @@ const Tab1Navigator = () => {
       initialRouteName="Tab1"
     >
       <Tab1.Screen
-        name="Profile"
-        component={ProfileScreen}
+        name="Dashboard"
+        component={DashboardScreen}
         options={{
           headerBackTitleVisible: false,
         }}
